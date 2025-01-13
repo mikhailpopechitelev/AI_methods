@@ -1,0 +1,12 @@
+aiogram==3.16.0
+annotated_types==0.7.0
+APScheduler==3.11.0
+coloredlogs==15.0.1
+gpt==0.2
+pydantic==2.10.4
+pydantic_settings==2.7.0
+pytz==2023.3
+Requests==2.32.3
+SQLAlchemy==2.0.36
+sqlmodel==0.0.22
+verboselogs==1.7
